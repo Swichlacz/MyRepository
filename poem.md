@@ -1,4 +1,4 @@
-# "Desiderata" by Max Ehrmann
+# "_Desiderata_" by Max Ehrmann
 
 _Go_ placidly amid the noise and haste,
 and remember what peace there may be in silence.
