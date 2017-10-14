@@ -52,6 +52,6 @@ in the noisy confusion of life keep peace with your soul.
 _With_ all its sham, drudgery, and broken dreams,
 it is still a beautiful world.
 Be cheerful.
-Strive to be happy. 
+*Strive to be happy.* 
 
 *http://mwkworks.com/desiderata.html*
