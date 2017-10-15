@@ -1,57 +1,57 @@
 # "_Desiderata_" by Max Ehrmann
 
-_Go_ placidly amid the noise and haste,
-and remember what peace there may be in silence.
-As far as possible without surrender
-be on good terms with all persons.
-Speak your truth quietly and clearly;
-and listen to others,
-even the dull and the ignorant;
-they too have their story.
+_Go_ placidly amid the noise and haste,<br>
+and remember what peace there may be in silence.<br>
+As far as possible without surrender<br>
+be on good terms with all persons.<br>
+Speak your truth quietly and clearly;<br>
+and listen to others,<br>
+even the dull and the ignorant;<br>
+they too have their story.<br>
 
-_Avoid_ loud and aggressive persons,
-they are vexations to the spirit.
-If you compare yourself with others,
-you may become vain and bitter;
-for always there will be greater and lesser persons than yourself.
-Enjoy your achievements as well as your plans.
+_Avoid_ loud and aggressive persons,<br>
+they are vexations to the spirit.<br>
+If you compare yourself with others,<br>
+you may become vain and bitter;<br>
+for always there will be greater and lesser persons than yourself.<br>
+Enjoy your achievements as well as your plans.<br>
 
-_Keep_ interested in your own career, however humble;
-it is a real possession in the changing fortunes of time.
-Exercise caution in your business affairs;
-for the world is full of trickery.
-But let this not blind you to what virtue there is;
-many persons strive for high ideals;
-and everywhere life is full of heroism.
+_Keep_ interested in your own career, however humble;<br>
+it is a real possession in the changing fortunes of time.<br>
+Exercise caution in your business affairs;<br>
+for the world is full of trickery.<br>
+But let this not blind you to what virtue there is;<br>
+many persons strive for high ideals;<br>
+and everywhere life is full of heroism.<br>
 
-_Be_ yourself.
-Especially, do not feign affection.
-Neither be cynical about love;
-for in the face of all aridity and disenchantment
-it is as perennial as the grass.
+_Be_ yourself.<br>
+Especially, do not feign affection.<br>
+Neither be cynical about love;<br>
+for in the face of all aridity and disenchantment<br>
+it is as perennial as the grass.<br>
 
-_Take_ kindly the counsel of the years,
-gracefully surrendering the things of youth.
-Nurture strength of spirit to shield you in sudden misfortune.
-But do not distress yourself with dark imaginings.
-Many fears are born of fatigue and loneliness.
-Beyond a wholesome discipline,
-be gentle with yourself.
+_Take_ kindly the counsel of the years,<br>
+gracefully surrendering the things of youth.<br>
+Nurture strength of spirit to shield you in sudden misfortune.<br>
+But do not distress yourself with dark imaginings.<br>
+Many fears are born of fatigue and loneliness.<br>
+Beyond a wholesome discipline,<br>
+be gentle with yourself.<br>
 
-_You_ are a child of the universe,
-no less than the trees and the stars;
-you have a right to be here.
-And whether or not it is clear to you,
-no doubt the universe is unfolding as it should.
+_You_ are a child of the universe,<br>
+no less than the trees and the stars;<br>
+you have a right to be here.<br>
+And whether or not it is clear to you,<br>
+no doubt the universe is unfolding as it should.<br>
 
-_Therefore_ be at peace with God,
-whatever you conceive Him to be,
-and whatever your labors and aspirations,
-in the noisy confusion of life keep peace with your soul.
+_Therefore_ be at peace with God,<br>
+whatever you conceive Him to be,<br>
+and whatever your labors and aspirations,<br>
+in the noisy confusion of life keep peace with your soul.<br>
 
-_With_ all its sham, drudgery, and broken dreams,
-it is still a beautiful world.
-Be cheerful.
-*Strive to be happy.* 
+_With_ all its sham, drudgery, and broken dreams,<br>
+it is still a beautiful world.<br>
+Be cheerful.<br>
+*Strive to be happy.* <br>
 
 *http://mwkworks.com/desiderata.html*
